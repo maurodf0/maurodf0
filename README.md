@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in **Mutart**
 
-- 🌱 I’m currently learning **React, Vue, Three.js**
+- 🌱 I’m currently learning **Vue,Nuxt and Three.js**
 
 - 💬 Ask me about **WordPress, Javascript, Php, Frontend, Web Animation**
 

@@ -12,7 +12,7 @@ I build fast, modern and scalable web applications with a strong focus on clean 
 - 🔍 Full Stack Developer specialized in **Nuxt 4 + PHP/WordPress**
 - ⚡ Building custom web apps, SaaS products and headless CMS architectures
 - 🛠️ Backend with **Nitro (server routes, REST APIs, auth)**
-- 🔌 Advanced **WordPress development**: custom plugins, CPT, hooks, REST API
+- 🔌 Advanced **WordPress development**: custom plugins, CPT, hooks, REST API, Themes
 - 🌍 Deploying on **Cloudflare (NuxtHub)** and **Vercel**
 
 ---
@@ -30,7 +30,6 @@ I build fast, modern and scalable web applications with a strong focus on clean 
 - Nuxt 4 / Vue architecture & composables
 - WordPress custom plugin & CPT development
 - PHP backend & WordPress REST API
-- Full stack auth: JWT, bcrypt, Supabase Auth
 - Headless CMS with WordPress + Nuxt
 - Frontend performance & animations
 
@@ -73,7 +72,7 @@ I build fast, modern and scalable web applications with a strong focus on clean 
 ### 🧩 What I'm Building
 
 - ⚡ A **full-stack Nuxt 4 app** for WP editorial and SEO management
-- 🔌 Custom **WordPress plugins** and headless CMS integrations
+- 🔌 Custom **WordPress themes** and headless CMS integrations
 - 🧠 Improving **scalable full-stack architecture** with Nitro + Supabase
 
 ---
@@ -93,10 +92,3 @@ I build fast, modern and scalable web applications with a strong focus on clean 
 </a>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodf0&show_icons=true&locale=en&layout=compact" />
-</p>
